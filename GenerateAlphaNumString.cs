@@ -6,7 +6,7 @@ public class Program
 	public static void Main()
 	{
 		Random ran = new Random();
-		String b = "abcdefghijklmnopqrstuvwxyz0123456789";
+		String b = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 		//String sc = "!@#$%^&*~";
 		int length = 32;
 		String random = "";
